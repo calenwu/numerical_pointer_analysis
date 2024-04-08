@@ -1,0 +1,14 @@
+# eclipse, vscode, pycharm
+/**/.classpath
+/**/.project
+/**/.settings
+/**/__pycache__
+.idea
+
+# temporary files
+/**/*odp#
+/docker
+analysis/Dockerfile
+analysis/Makefile
+analysis/pom.xml
+analysis/settings_template.xml
